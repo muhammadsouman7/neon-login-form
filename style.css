@@ -372,4 +372,18 @@ footer span {
         width: 12.5vw;
         height: 12.5vh;
     }
+    .signin-eye {
+        right: 63px;
+        top: 210px;
+    }
+    .signup-eye {
+        /* position: absolute; */
+        z-index: 1;
+        right: 63px;
+        top: 166px;
+    }
+    .confirm-eye {
+        top: 214px;
+        right: 63px;
+    }
 }
