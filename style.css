@@ -374,16 +374,16 @@ footer span {
     }
     .signin-eye {
         right: 63px;
-        top: 210px;
+        top: 206px;
     }
     .signup-eye {
         /* position: absolute; */
         z-index: 1;
         right: 63px;
-        top: 166px;
+        top: 162px;
     }
     .confirm-eye {
-        top: 214px;
+        top: 210px;
         right: 63px;
     }
 }
